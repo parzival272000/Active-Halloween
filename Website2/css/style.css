@@ -98,11 +98,11 @@ top: 64%;
 }
 .carousel-indicators li {
   background-color: rgba(0,0,0,0);
-  border: 1px solid #BC2A87;
+  border: 1px solid #bc2a4e;
   border-radius: 0;
 }
 .carousel-indicators .active {
-  background-color: #BC2A87;
+  background-color: #bc2a3d;
 }
 .caption h2{
 color: #FFFFFF;
@@ -314,7 +314,7 @@ p {
 ---------------------------------*/
 
 #header_wrapper {
-    background: #BC2A87;
+    background: #bc2a4a;
     padding: 15px 0px;
     position: relative;
     border-top: 2px solid #fff;
@@ -522,7 +522,7 @@ height: 650px;
 
 .top_left_cont h3 {
     font-size: 16px;
-    color: #f56eab;
+    color: #f56e79;
     margin: 0 0 20px 0;
     text-align: left;
     font-weight: 700;
@@ -614,7 +614,7 @@ div#main-nav {
 
 #service {
     padding: 60px 0px;
-    background: #BC2A87;
+    background: #bc2a31;
 }
 #service h2{
   color: #fff;
@@ -1212,7 +1212,7 @@ transition: all .3s;
 }
 
 .contact_block_icon span {
-    background: none repeat scroll 0 0 #f56eab;
+    background: none repeat scroll 0 0 #f56e79;
     border: 5px solid #fff;
     border-radius: 50%;
     display: block;
@@ -1385,11 +1385,11 @@ transition: all .3s;
 ---------------------------------*/
 
 .footer_wrapper {
-    background: #BC2A87;
+    background: #bc2a5b;
 }
 
 .footer_bottom {
-    border-top: 1px solid #CE6CAB;
+    border-top: 1px solid #ce6c89;
     padding: 25px 0;
 }
 
